@@ -35,6 +35,3 @@ This is a scheduling page that allows users to schedule events and send email no
 - PHP
 - PHPMailer
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
